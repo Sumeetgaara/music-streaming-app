@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22b16f73-9856-40ca-b778-a2f00070555c": {
+      "ProjectGuid": "22b16f73-9856-40ca-b778-a2f00070555c",
+      "DisplayName": "real-time-music-api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

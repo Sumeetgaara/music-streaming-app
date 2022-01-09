@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "real-time-music-api/1.0.0": {
+        "runtime": {
+          "real-time-music-api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "real-time-music-api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

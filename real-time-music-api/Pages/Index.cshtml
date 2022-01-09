@@ -1,0 +1,16 @@
+﻿@page
+<br/>
+<br/>
+<br/>
+<div class="input-group mb-3">
+  <input type="text" id="songname"class="form-control" placeholder="Song to be played" aria-describedby="btn-music">
+  <button class="btn btn-outline-secondary" type="button" id="btn-music">Stream Music</button>
+</div>
+
+
+<br/>
+<br/>
+<iframe id ="musicframe" width="100%" height="166" scrolling="no" frameborder=1 allow="autoplay"></iframe>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/music.js"></script>
